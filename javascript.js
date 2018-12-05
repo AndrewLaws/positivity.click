@@ -26,7 +26,19 @@ var quotes = [
   'You cannot tailor-make the situations in life but you can tailor-make the attitudes to fit those situations. ~ Zig Ziglar',
   'Each problem has hidden in it an opportunity so powerful that it literally dwarfs the problem. The greatest success stories were created by people who recognized a problem and turned it into an opportunity. ~ Joseph Sugarman',
   'Each morning when I open my eyes I say to myself: I, not events, have the power to make me happy or unhappy today. I can choose which it shall be. Yesterday is dead, tomorrow hasn’t arrived yet. I have just one day, today, and I’m going to be happy in it. ~ Groucho Marx',
+  'If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment. ~ —Marcus Aurelius',
+  'Be gentle with yourself. You’re doing the best you can.',
+  'Try not to filter out the positive and magnify the negative.',
+  'Thoughts are not truths!',
+  'Try to live life based on facts, not perceptions, guesswork or assumptions.',
+  'If you find it difficult to look at your negative thoughts objectively, imagine that you are your best friend or a respected coach or mentor. Look at the list of negative thoughts. Imagine that they were written down by someone you were giving objective advice to, and think about how you\'d challenge these thoughts.',
+  'Worry is a total waste of time.  It doesn’t change anything.  All it does is steal your joy and keeps you very busy doing nothing.',
+  'An entire ocean can\'t sink a ship unless the water gets inside the ship, similarly the entire negativity of the world can\'t put you down unless you allow it to get inside of you.',
+  'What other people think of you is none of your business',
+  'Don\'t take yourself too seriously, nobody else does.',
+  'However good or bad a situatiuon is, it will change.',
   
+
 ]
 
 function newQuote() {
