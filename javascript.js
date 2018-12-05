@@ -37,8 +37,32 @@ var quotes = [
   'What other people think of you is none of your business',
   'Don\'t take yourself too seriously, nobody else does.',
   'However good or bad a situatiuon is, it will change.',
-  
-
+  'Don\'t  compare yourself to others, you have no idea what their journey is all about.',
+  'Life is tough, but so are you!',
+  'When it rains, look for rainbows',
+  'When it is dark, look for stars',
+  'Throw kindness around like confetti',
+  'Positivity is the key to Happiness',
+  'Exist to be happy, not to impress',
+  'Rule your mind, or it will rule you',
+  'Love more, worry less',
+  'Shut up, move on',
+  'LET GO',
+  'Be Content with what you have; rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you. – Lao Tzu',
+  'You can\’t start the next chapter of your life if you keep re-reading the last one.',
+  'Don\’t wait for the perfect moment. Take the moment and make it perfect',
+  'Learn to mindfully observe, smell, hear, and fully appreciate every minute of your life. Those who can’t conscientiously notice and appreciate the present moment aren’t able to be fully happy.',
+  'The thoughts in your head are not always correct.  Do not always believe in them, especially the negative ones',
+  'If you are distressed by anything external, the pain is not due to the thing itself but to your own estimate of it and this you have the power to revoke at any moment.',
+  'We cannot prevent birds from flying over our heads, but we can keep them from making nests on top of our heads.  Similarly, bad thoughts sometimes appear in our mind, but we can choose whether we allow them to live there, to create a nest for themselves, and to breed evil deeds - Leo Tolstoy',
+  'The positive thinker sees the invisible, feels the intangible, and achieves the impossible.',
+  'The person who sends out positive thoughts activates the world around him positively and draws back to himself positive results." If we think we are going to fail we will, but if we believe in our self, take action, we can achieve whatever we put our mind to.',
+  'You must not allow yourself to dwell for a single moment on any kind of negative thought. ~ Emmet Fox',
+  'Nietsche said there was no way of knowing the absolute facts as everything is an interpretation.  To give life purpose, we must construct our own version of history ~ Sam L Page',
+  'Accept your past without regret, handle your present with confidence and face your future without fear.',
+  'You are not the voices in your head',
+  'You cannot suffer the past or future because they don\'t exist.  What you are suffering is your memory and your imagination. ~ Sachin Tripathi',
+  'The root of true confidence grows from our ability to be in unconditional friendship with ourselves'
 ]
 
 function newQuote() {
