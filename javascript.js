@@ -27,7 +27,7 @@ var quotes = [
   'Each problem has hidden in it an opportunity so powerful that it literally dwarfs the problem. The greatest success stories were created by people who recognized a problem and turned it into an opportunity. ~ Joseph Sugarman',
   'Each morning when I open my eyes I say to myself: I, not events, have the power to make me happy or unhappy today. I can choose which it shall be. Yesterday is dead, tomorrow hasn’t arrived yet. I have just one day, today, and I’m going to be happy in it. ~ Groucho Marx',
   'If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment. ~ —Marcus Aurelius',
-  'Be gentle with yourself. You’re doing the best you can.',
+  'Be gentle with yourself. You\’re doing the best you can.',
   'Try not to filter out the positive and magnify the negative.',
   'Thoughts are not truths!',
   'Try to live life based on facts, not perceptions, guesswork or assumptions.',
