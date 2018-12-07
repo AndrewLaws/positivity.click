@@ -51,7 +51,7 @@ var quotes = [
   'Be Content with what you have; rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you. – Lao Tzu',
   'You can\’t start the next chapter of your life if you keep re-reading the last one.',
   'Don\’t wait for the perfect moment. Take the moment and make it perfect',
-  'Learn to mindfully observe, smell, hear, and fully appreciate every minute of your life. Those who can’t conscientiously notice and appreciate the present moment aren’t able to be fully happy.',
+  'Learn to mindfully observe, smell, hear, and fully appreciate every minute of your life. Those who can\’t conscientiously notice and appreciate the present moment aren\’t able to be fully happy.',
   'The thoughts in your head are not always correct.  Do not always believe in them, especially the negative ones',
   'If you are distressed by anything external, the pain is not due to the thing itself but to your own estimate of it and this you have the power to revoke at any moment.',
   'We cannot prevent birds from flying over our heads, but we can keep them from making nests on top of our heads.  Similarly, bad thoughts sometimes appear in our mind, but we can choose whether we allow them to live there, to create a nest for themselves, and to breed evil deeds - Leo Tolstoy',
